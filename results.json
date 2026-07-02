@@ -1,0 +1,24 @@
+{
+  "_comment": "Manual results fallback. Fill in completed races by round number. Used only when the live API has no data for that round. Driver = 'F. Lastname', team = full team name (e.g. 'McLaren', 'Ferrari', 'Red Bull').",
+  "results": {
+    "1": {
+      "podium": [
+        {
+          "driver": "L. Norris",
+          "team": "McLaren"
+        },
+        {
+          "driver": "O. Piastri",
+          "team": "McLaren"
+        },
+        {
+          "driver": "M. Verstappen",
+          "team": "Red Bull"
+        }
+      ],
+      "pole": "Norris",
+      "fastest": "Piastri",
+      "laps": "58"
+    }
+  }
+}
