@@ -366,7 +366,7 @@ function sizeRenderer(){ renderer.setSize(W,H,false); camera.aspect=W/H; camera.
 sizeRenderer();
 
 const R=1.6;
-const globeGroup=new THREE.Group(); scene.add(globeGroup);
+const globeGroup=new THREE.Group(); globeGroup.position.y=-0.45; scene.add(globeGroup);
 
 function buildTexture(mode,oceanHex){
   const w=2048,h=1024,c=document.createElement("canvas");c.width=w;c.height=h;
@@ -1094,7 +1094,7 @@ setInterval(()=>{ if(!selected && !document.hidden) location.reload(); }, 20*60*
 /* ====== animate ====== */
 const clock=new THREE.Clock();
 const pv=new THREE.Vector3();
-const CX=()=>960, CY=()=>540; // stage center (1920x1080)
+const CX=()=>960, CY=()=>647; // globe centre (shifted down clear of the header)
 function tick(){
   const t=clock.getElapsedTime();
   if(targetRotY!==null){globeGroup.rotation.y+=(targetRotY-globeGroup.rotation.y)*0.06;globeGroup.rotation.x+=(targetRotX-globeGroup.rotation.x)*0.06;}
