@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-06T15:39:25.600029Z",
+ "updated": "2026-07-06T17:59:24.413022Z",
  "items": [
+  {
+   "t": "F1 could move away from customer power units in 2031",
+   "src": "Autosport",
+   "ts": 1783358462
+  },
+  {
+   "t": "Formula 1 and my autistic son - navigating noise, crowds and chaos",
+   "src": "BBC",
+   "ts": 1783355311
+  },
   {
    "t": "The clever electrical trick that gives Mercedes an edge in qualifying",
    "src": "Autosport",
@@ -50,16 +60,6 @@
    "t": "Strong weekend for Lindblad and Leclerc composed - driver ratings",
    "src": "BBC",
    "ts": 1783277915
-  },
-  {
-   "t": "Why Mercedes won't contest Antonelli's British GP track limits penalty",
-   "src": "Autosport",
-   "ts": 1783276413
-  },
-  {
-   "t": "Leclerc wins dramatic race from Russell and Hamilton",
-   "src": "BBC",
-   "ts": 1783275070
   }
  ]
 }
