@@ -1,10 +1,65 @@
 {
- "updated": "2026-07-04T09:33:50.723678Z",
+ "updated": "2026-07-06T11:42:49.361471Z",
  "items": [
   {
-   "t": "Live headlines load automatically once the news workflow runs",
-   "src": "F1 News",
-   "ts": 0
+   "t": "Wolff: I wish Abu Dhabi 2021 had been handled like the F1 British GP",
+   "src": "Autosport",
+   "ts": 1783332538
+  },
+  {
+   "t": "Sainz handed unprecedented penalty after F1 British GP",
+   "src": "Autosport",
+   "ts": 1783314253
+  },
+  {
+   "t": "Safety car software error 'frustrating'",
+   "src": "BBC",
+   "ts": 1783291617
+  },
+  {
+   "t": "Safety car decisive again in confusing end to chaotic race",
+   "src": "BBC",
+   "ts": 1783286746
+  },
+  {
+   "t": "F1: Chequered Flag",
+   "src": "BBC",
+   "ts": 1783281900
+  },
+  {
+   "t": "Red Bull wing failure 'super-dangerous' - Verstappen",
+   "src": "BBC",
+   "ts": 1783280796
+  },
+  {
+   "t": "Why Verstappen is 'right to be angry' after another \"super dangerous\" wing failure",
+   "src": "Autosport",
+   "ts": 1783280430
+  },
+  {
+   "t": "Strong weekend for Lindblad and Leclerc composed - driver ratings",
+   "src": "BBC",
+   "ts": 1783277915
+  },
+  {
+   "t": "Why Mercedes won't contest Antonelli's British GP track limits penalty",
+   "src": "Autosport",
+   "ts": 1783276413
+  },
+  {
+   "t": "Leclerc wins dramatic race from Russell and Hamilton",
+   "src": "BBC",
+   "ts": 1783275070
+  },
+  {
+   "t": "Hamilton keeps British GP podium after escaping yellow-flag sanction",
+   "src": "Autosport",
+   "ts": 1783274513
+  },
+  {
+   "t": "Verstappen \"fed up\" with Red Bull issues as he reveals cause of British GP crash",
+   "src": "Autosport",
+   "ts": 1783274298
   }
  ]
 }
