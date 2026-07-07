@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-07T14:42:32.283018Z",
+ "updated": "2026-07-07T17:18:57.426449Z",
  "items": [
+  {
+   "t": "The pre-race tweak that hampered Hamilton's British GP",
+   "src": "Autosport",
+   "ts": 1783440872
+  },
   {
    "t": "Should the British GP ending cause a change in F1 safety car rules?",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Safety car software error 'frustrating'",
    "src": "BBC",
    "ts": 1783291617
-  },
-  {
-   "t": "Safety car decisive again in confusing end to chaotic race",
-   "src": "BBC",
-   "ts": 1783286746
   }
  ]
 }
