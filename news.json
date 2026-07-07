@@ -1,8 +1,13 @@
 {
- "updated": "2026-07-07T08:46:22.126500Z",
+ "updated": "2026-07-07T11:53:19.948289Z",
  "items": [
   {
-   "t": "Did F1 miss trick with British GP safety-car finish? - Q&A",
+   "t": "Red Bull investigates Verstappen’s rear wing failure, “all options open” for Spa",
+   "src": "Autosport",
+   "ts": 1783416846
+  },
+  {
+   "t": "Safety car finish and Verstappen's future - F1 Q&A",
    "src": "BBC",
    "ts": 1783407450
   },
@@ -55,11 +60,6 @@
    "t": "Why Verstappen is 'right to be angry' after another \"super dangerous\" wing failure",
    "src": "Autosport",
    "ts": 1783280430
-  },
-  {
-   "t": "The Chequered Flag Podcast",
-   "src": "BBC",
-   "ts": 1783278000
   }
  ]
 }
