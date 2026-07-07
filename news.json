@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-07T11:53:19.948289Z",
+ "updated": "2026-07-07T14:42:32.283018Z",
  "items": [
+  {
+   "t": "Should the British GP ending cause a change in F1 safety car rules?",
+   "src": "Autosport",
+   "ts": 1783433750
+  },
+  {
+   "t": "Why Vasseur doesn't want to talk about a Ferrari title fight",
+   "src": "Autosport",
+   "ts": 1783427385
+  },
   {
    "t": "Red Bull investigates Verstappen’s rear wing failure, “all options open” for Spa",
    "src": "Autosport",
@@ -50,16 +60,6 @@
    "t": "Safety car decisive again in confusing end to chaotic race",
    "src": "BBC",
    "ts": 1783286746
-  },
-  {
-   "t": "Red Bull wing failure 'super-dangerous' - Verstappen",
-   "src": "BBC",
-   "ts": 1783280796
-  },
-  {
-   "t": "Why Verstappen is 'right to be angry' after another \"super dangerous\" wing failure",
-   "src": "Autosport",
-   "ts": 1783280430
   }
  ]
 }
