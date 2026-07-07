@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-06T20:09:29.220181Z",
+ "updated": "2026-07-07T08:46:22.126500Z",
  "items": [
+  {
+   "t": "Did F1 miss trick with British GP safety-car finish? - Q&A",
+   "src": "BBC",
+   "ts": 1783407450
+  },
   {
    "t": "F1 could move away from customer power units in 2031",
    "src": "Autosport",
@@ -42,11 +47,6 @@
    "ts": 1783286746
   },
   {
-   "t": "F1: Chequered Flag",
-   "src": "BBC",
-   "ts": 1783281900
-  },
-  {
    "t": "Red Bull wing failure 'super-dangerous' - Verstappen",
    "src": "BBC",
    "ts": 1783280796
@@ -57,9 +57,9 @@
    "ts": 1783280430
   },
   {
-   "t": "Strong weekend for Lindblad and Leclerc composed - driver ratings",
+   "t": "The Chequered Flag Podcast",
    "src": "BBC",
-   "ts": 1783277915
+   "ts": 1783278000
   }
  ]
 }
