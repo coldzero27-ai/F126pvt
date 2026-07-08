@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-07T17:18:57.426449Z",
+ "updated": "2026-07-08T09:41:23.635049Z",
  "items": [
+  {
+   "t": "FIA looking into Red Bull and Ferrari's rotating F1 wings after Verstappen crashes",
+   "src": "Autosport",
+   "ts": 1783498842
+  },
   {
    "t": "The pre-race tweak that hampered Hamilton's British GP",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Sainz handed unprecedented penalty after F1 British GP",
    "src": "Autosport",
    "ts": 1783314253
-  },
-  {
-   "t": "Safety car software error 'frustrating'",
-   "src": "BBC",
-   "ts": 1783291617
   }
  ]
 }
