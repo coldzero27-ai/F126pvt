@@ -1,6 +1,21 @@
 {
- "updated": "2026-07-08T17:55:40.497317Z",
+ "updated": "2026-07-09T15:37:26.100045Z",
  "items": [
+  {
+   "t": "Is Red Bull better or worse off one year after Horner's sacking? Our writers have their say",
+   "src": "Autosport",
+   "ts": 1783607450
+  },
+  {
+   "t": "One year on: How Red Bull changed post-Horner",
+   "src": "Autosport",
+   "ts": 1783604152
+  },
+  {
+   "t": "Andrew Benson Q&A: Send us your questions",
+   "src": "BBC",
+   "ts": 1783602667
+  },
   {
    "t": "Why Red Bull and Verstappen struggled at Silverstone – and expect the same at Spa",
    "src": "Autosport",
@@ -45,21 +60,6 @@
    "t": "Safety car finish and Verstappen's future - F1 Q&A",
    "src": "BBC",
    "ts": 1783407450
-  },
-  {
-   "t": "F1 could move away from customer power units in 2031",
-   "src": "Autosport",
-   "ts": 1783358462
-  },
-  {
-   "t": "The personal story of a dad who took his autistic son to the British Grand Prix",
-   "src": "BBC",
-   "ts": 1783355311
-  },
-  {
-   "t": "The clever electrical trick that gives Mercedes an edge in qualifying",
-   "src": "Autosport",
-   "ts": 1783349561
   }
  ]
 }
