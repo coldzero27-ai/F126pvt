@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-09T15:37:26.100045Z",
+ "updated": "2026-07-10T10:30:38.941367Z",
  "items": [
+  {
+   "t": "Audi calls for F1 ADUO rethink amid exploit fears",
+   "src": "Autosport",
+   "ts": 1783671781
+  },
   {
    "t": "Is Red Bull better or worse off one year after Horner's sacking? Our writers have their say",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Red Bull investigates Verstappen’s rear wing failure, “all options open” for Spa",
    "src": "Autosport",
    "ts": 1783416846
-  },
-  {
-   "t": "Safety car finish and Verstappen's future - F1 Q&A",
-   "src": "BBC",
-   "ts": 1783407450
   }
  ]
 }
