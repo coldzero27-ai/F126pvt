@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-10T10:30:38.941367Z",
+ "updated": "2026-07-10T12:56:41.834426Z",
  "items": [
+  {
+   "t": "F1 drivers and cars at the 2026 Goodwood Festival of Speed",
+   "src": "Autosport",
+   "ts": 1783682594
+  },
   {
    "t": "Audi calls for F1 ADUO rethink amid exploit fears",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Why Vasseur doesn't want to talk about a Ferrari title fight",
    "src": "Autosport",
    "ts": 1783427385
-  },
-  {
-   "t": "Red Bull investigates Verstappen’s rear wing failure, “all options open” for Spa",
-   "src": "Autosport",
-   "ts": 1783416846
   }
  ]
 }
