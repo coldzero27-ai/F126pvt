@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-10T17:25:45.052646Z",
+ "updated": "2026-07-11T09:53:00.062617Z",
  "items": [
+  {
+   "t": "Whether the bad luck between Russell and Antonelli has evened out in F1 title fight",
+   "src": "Autosport",
+   "ts": 1783760581
+  },
   {
    "t": "Alonso has \"no idea\" what he’ll do when he eventually retires from F1",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "The pre-race tweak that hampered Hamilton's British GP",
    "src": "Autosport",
    "ts": 1783440872
-  },
-  {
-   "t": "Should the British GP ending cause a change in F1 safety car rules?",
-   "src": "Autosport",
-   "ts": 1783433750
   }
  ]
 }
