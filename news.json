@@ -1,10 +1,15 @@
 {
- "updated": "2026-07-12T08:52:41.316020Z",
+ "updated": "2026-07-12T10:37:58.150261Z",
  "items": [
   {
    "t": "Audi targets F1 title bid by 2030",
    "src": "Autosport",
    "ts": 1783843364
+  },
+  {
+   "t": "Garnacho absent from Chelsea pre-season training",
+   "src": "BBC",
+   "ts": 1783775436
   },
   {
    "t": "Whether the bad luck between Russell and Antonelli has evened out in F1 title fight",
@@ -55,11 +60,6 @@
    "t": "How the more technical F1 2026 regulations hinder customer teams",
    "src": "Autosport",
    "ts": 1783508875
-  },
-  {
-   "t": "FIA looking into Red Bull and Ferrari's rotating F1 wings after Verstappen crashes",
-   "src": "Autosport",
-   "ts": 1783498842
   }
  ]
 }
