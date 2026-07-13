@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-13T10:32:26.525735Z",
+ "updated": "2026-07-13T16:01:09.458134Z",
  "items": [
   {
    "t": "What would you like to ask Esteban Ocon?",
@@ -15,11 +15,6 @@
    "t": "Audi targets F1 title bid by 2030",
    "src": "Autosport",
    "ts": 1783843364
-  },
-  {
-   "t": "Garnacho absent from Chelsea pre-season training",
-   "src": "BBC",
-   "ts": 1783775436
   },
   {
    "t": "Whether the bad luck between Russell and Antonelli has evened out in F1 title fight",
@@ -60,6 +55,11 @@
    "t": "Andrew Benson Q&A: Send us your questions",
    "src": "BBC",
    "ts": 1783602667
+  },
+  {
+   "t": "Why Red Bull and Verstappen struggled at Silverstone – and expect the same at Spa",
+   "src": "Autosport",
+   "ts": 1783528367
   }
  ]
 }
