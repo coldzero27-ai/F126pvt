@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-12T10:37:58.150261Z",
+ "updated": "2026-07-13T06:56:24.022123Z",
  "items": [
+  {
+   "t": "How to follow Belgian Grand Prix on the BBC",
+   "src": "BBC",
+   "ts": 1783924489
+  },
   {
    "t": "Audi targets F1 title bid by 2030",
    "src": "Autosport",
@@ -32,6 +37,11 @@
    "ts": 1783671781
   },
   {
+   "t": "F1: Chequered Flag",
+   "src": "BBC",
+   "ts": 1783668780
+  },
+  {
    "t": "Is Red Bull better or worse off one year after Horner's sacking? Our writers have their say",
    "src": "Autosport",
    "ts": 1783607450
@@ -50,16 +60,6 @@
    "t": "Why Red Bull and Verstappen struggled at Silverstone – and expect the same at Spa",
    "src": "Autosport",
    "ts": 1783528367
-  },
-  {
-   "t": "How Leclerc has changed his steering wheel software for the first time since joining Ferrari",
-   "src": "Autosport",
-   "ts": 1783525202
-  },
-  {
-   "t": "How the more technical F1 2026 regulations hinder customer teams",
-   "src": "Autosport",
-   "ts": 1783508875
   }
  ]
 }
