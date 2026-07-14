@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-14T14:17:50.242628Z",
+ "updated": "2026-07-14T17:17:00.052300Z",
  "items": [
+  {
+   "t": "Pirelli's battle with F1 wheel rim development",
+   "src": "Autosport",
+   "ts": 1784047047
+  },
   {
    "t": "Win the dream ticket to attend every F1 race next season",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Audi calls for F1 ADUO rethink amid exploit fears",
    "src": "Autosport",
    "ts": 1783671781
-  },
-  {
-   "t": "F1: Chequered Flag",
-   "src": "BBC",
-   "ts": 1783668780
   }
  ]
 }
