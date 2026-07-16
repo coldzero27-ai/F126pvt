@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-15T10:28:37.612062Z",
+ "updated": "2026-07-16T09:32:25.099767Z",
  "items": [
+  {
+   "t": "Verstappen signs McLaren junior driver van Langendonck",
+   "src": "Autosport",
+   "ts": 1784192411
+  },
   {
    "t": "Bortoleto: F1 hasn't lost its 'magic'; drivers need to \"turn the page\" on 2026 complaints",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Alonso has \"no idea\" what he’ll do when he eventually retires from F1",
    "src": "Autosport",
    "ts": 1783698171
-  },
-  {
-   "t": "F1 drivers and cars at the 2026 Goodwood Festival of Speed",
-   "src": "Autosport",
-   "ts": 1783682594
   }
  ]
 }
