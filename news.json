@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-16T15:15:28.605126Z",
+ "updated": "2026-07-16T16:45:07.253848Z",
  "items": [
+  {
+   "t": "What Verstappen did – and didn't – say about his F1 future and McLaren at Spa",
+   "src": "Autosport",
+   "ts": 1784218400
+  },
+  {
+   "t": "Norris to have 10-place grid penalty in Belgium",
+   "src": "BBC",
+   "ts": 1784217865
+  },
   {
    "t": "Red Bull parks 'Macarena' rear wing for Belgian GP after Verstappen crashes",
    "src": "Autosport",
@@ -15,11 +25,6 @@
    "t": "How to follow Belgian Grand Prix on the BBC",
    "src": "BBC",
    "ts": 1784200835
-  },
-  {
-   "t": "Norris to have 10-place grid penalty in Belgium",
-   "src": "BBC",
-   "ts": 1784200504
   },
   {
    "t": "Norris given Belgium GP grid penalty as McLaren takes new Mercedes power unit parts",
@@ -55,11 +60,6 @@
    "t": "Win the dream ticket to attend every F1 race next season",
    "src": "Autosport",
    "ts": 1784034003
-  },
-  {
-   "t": "Are loud engines really something F1 should return to?",
-   "src": "Autosport",
-   "ts": 1784030692
   }
  ]
 }
