@@ -1,13 +1,18 @@
 {
- "updated": "2026-07-17T13:51:17.915054Z",
+ "updated": "2026-07-17T16:36:45.401428Z",
  "items": [
+  {
+   "t": "F1 Belgian GP: Antonelli headlines FP2 over Norris, Gasly crash causes red flag",
+   "src": "Autosport",
+   "ts": 1784304636
+  },
   {
    "t": "Hadjar set for Belgian GP grid penalty after F1 engine change",
    "src": "Autosport",
    "ts": 1784293267
   },
   {
-   "t": "Verstappen on top as Hadjar takes grid penalty",
+   "t": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
    "src": "BBC",
    "ts": 1784293168
   },
@@ -55,11 +60,6 @@
    "t": "How to follow Belgian Grand Prix on the BBC",
    "src": "BBC",
    "ts": 1784200835
-  },
-  {
-   "t": "Norris given Belgium GP grid penalty as McLaren takes new Mercedes power unit parts",
-   "src": "Autosport",
-   "ts": 1784200133
   }
  ]
 }
