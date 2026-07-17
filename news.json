@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T10:24:17.666715Z",
+ "updated": "2026-07-17T11:56:16.354339Z",
  "items": [
   {
    "t": "Why Verstappen has signed a McLaren F1 junior",
@@ -10,6 +10,11 @@
    "t": "‘Like being asked to draw the Mona Lisa’ – Russell explains how he is struggling to match Antonelli",
    "src": "Autosport",
    "ts": 1784272460
+  },
+  {
+   "t": "F1: Chequered Flag",
+   "src": "BBC",
+   "ts": 1784232060
   },
   {
    "t": "What Verstappen did – and didn't – say about his F1 future and McLaren at Spa",
@@ -55,11 +60,6 @@
    "t": "Verstappen signs McLaren junior driver van Langendonck",
    "src": "Autosport",
    "ts": 1784192411
-  },
-  {
-   "t": "Bortoleto: F1 hasn't lost its 'magic'; drivers need to \"turn the page\" on 2026 complaints",
-   "src": "Autosport",
-   "ts": 1784108286
   }
  ]
 }
