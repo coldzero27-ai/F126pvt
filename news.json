@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-18T10:48:59.780813Z",
+ "updated": "2026-07-18T11:54:32.224421Z",
  "items": [
+  {
+   "t": "F1 Belgian GP: Antonelli fastest as Hamilton crashes at end of FP3",
+   "src": "Autosport",
+   "ts": 1784375201
+  },
+  {
+   "t": "Andrew Benson Q&A: Send us your questions",
+   "src": "BBC",
+   "ts": 1784371822
+  },
   {
    "t": "How to follow Belgian Grand Prix on the BBC",
    "src": "BBC",
@@ -50,16 +60,6 @@
    "t": "F1 Belgian GP: Verstappen quickest in FP1 over Hamilton",
    "src": "Autosport",
    "ts": 1784292050
-  },
-  {
-   "t": "Why Verstappen has signed a McLaren F1 junior",
-   "src": "Autosport",
-   "ts": 1784281263
-  },
-  {
-   "t": "‘Like being asked to draw the Mona Lisa’ – Russell explains how he is struggling to match Antonelli",
-   "src": "Autosport",
-   "ts": 1784272460
   }
  ]
 }
