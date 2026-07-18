@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-18T16:35:14.553669Z",
+ "updated": "2026-07-18T17:38:46.721997Z",
  "items": [
+  {
+   "t": "How to follow Belgian Grand Prix on the BBC",
+   "src": "BBC",
+   "ts": 1784395146
+  },
+  {
+   "t": "Explained: The yellow flag error that caught Leclerc out in Belgian GP qualifying",
+   "src": "Autosport",
+   "ts": 1784394335
+  },
   {
    "t": "Verstappen: I wouldn't be on Belgian GP front row without Hadjar tow",
    "src": "Autosport",
@@ -10,6 +20,11 @@
    "t": "Antonelli takes Belgium pole from Verstappen",
    "src": "BBC",
    "ts": 1784390824
+  },
+  {
+   "t": "F1: Chequered Flag",
+   "src": "BBC",
+   "ts": 1784389920
   },
   {
    "t": "F1 Belgian GP: Antonelli defeats Verstappen to take pole",
@@ -25,11 +40,6 @@
    "t": "Andrew Benson Q&A: Send us your questions",
    "src": "BBC",
    "ts": 1784371822
-  },
-  {
-   "t": "How to follow Belgian Grand Prix on the BBC",
-   "src": "BBC",
-   "ts": 1784368640
   },
   {
    "t": "Why Hamilton sees Mercedes as ‘still the team to beat’ at Belgian GP",
@@ -50,16 +60,6 @@
    "t": "Red Bull expects to run its ‘Macarena’ wing again at next F1 race",
    "src": "Autosport",
    "ts": 1784309765
-  },
-  {
-   "t": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
-   "src": "BBC",
-   "ts": 1784309607
-  },
-  {
-   "t": "How Racing Bulls let a driver battle decide who got its F1 car cooling upgrade for Belgian GP",
-   "src": "Autosport",
-   "ts": 1784306041
   }
  ]
 }
