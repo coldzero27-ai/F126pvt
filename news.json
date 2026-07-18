@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-18T07:55:56.971850Z",
+ "updated": "2026-07-18T10:48:59.780813Z",
  "items": [
+  {
+   "t": "How to follow Belgian Grand Prix on the BBC",
+   "src": "BBC",
+   "ts": 1784368640
+  },
   {
    "t": "Why Hamilton sees Mercedes as ‘still the team to beat’ at Belgian GP",
    "src": "Autosport",
@@ -25,11 +30,6 @@
    "t": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
    "src": "BBC",
    "ts": 1784309607
-  },
-  {
-   "t": "How to follow Belgian Grand Prix on the BBC",
-   "src": "BBC",
-   "ts": 1784308102
   },
   {
    "t": "How Racing Bulls let a driver battle decide who got its F1 car cooling upgrade for Belgian GP",
