@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-18T11:54:32.224421Z",
+ "updated": "2026-07-18T15:37:14.555285Z",
  "items": [
+  {
+   "t": "Antonelli takes Belgium pole from Verstappen",
+   "src": "BBC",
+   "ts": 1784388551
+  },
+  {
+   "t": "F1 Belgian GP: Antonelli defeats Verstappen to take pole",
+   "src": "Autosport",
+   "ts": 1784388391
+  },
   {
    "t": "F1 Belgian GP: Antonelli fastest as Hamilton crashes at end of FP3",
    "src": "Autosport",
@@ -50,16 +60,6 @@
    "t": "F1 Belgian GP: Antonelli headlines FP2 over Norris, Gasly crash causes red flag",
    "src": "Autosport",
    "ts": 1784304636
-  },
-  {
-   "t": "Hadjar set for Belgian GP grid penalty after F1 engine change",
-   "src": "Autosport",
-   "ts": 1784293267
-  },
-  {
-   "t": "F1 Belgian GP: Verstappen quickest in FP1 over Hamilton",
-   "src": "Autosport",
-   "ts": 1784292050
   }
  ]
 }
