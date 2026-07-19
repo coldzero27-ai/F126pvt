@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-19T12:33:31.954762Z",
+ "updated": "2026-07-19T14:09:17.697879Z",
  "items": [
+  {
+   "t": "Red Bull names successor to Verstappen's race engineer Lambiase",
+   "src": "Autosport",
+   "ts": 1784469727
+  },
+  {
+   "t": "Red Bull set to sign Mercedes F1 junior boss Lagrue",
+   "src": "Autosport",
+   "ts": 1784465515
+  },
   {
    "t": "Mercedes driver scout Lagrue joining Red Bull",
    "src": "BBC",
@@ -50,16 +60,6 @@
    "t": "F1 Belgian GP: Antonelli defeats Verstappen to take pole",
    "src": "Autosport",
    "ts": 1784388391
-  },
-  {
-   "t": "F1 Belgian GP: Antonelli fastest as Hamilton crashes at end of FP3",
-   "src": "Autosport",
-   "ts": 1784375201
-  },
-  {
-   "t": "Andrew Benson Q&A: Send us your questions",
-   "src": "BBC",
-   "ts": 1784371822
   }
  ]
 }
