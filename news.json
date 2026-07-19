@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-19T08:37:21.778511Z",
+ "updated": "2026-07-19T11:33:34.063678Z",
  "items": [
+  {
+   "t": "Why F1 drivers are being beaten by their own power units",
+   "src": "Autosport",
+   "ts": 1784456535
+  },
   {
    "t": "Hamilton: Ferrari F1 car \"didn't feel the same\" after Belgian GP practice crash",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Andrew Benson Q&A: Send us your questions",
    "src": "BBC",
    "ts": 1784371822
-  },
-  {
-   "t": "Why Hamilton sees Mercedes as ‘still the team to beat’ at Belgian GP",
-   "src": "Autosport",
-   "ts": 1784358858
   }
  ]
 }
