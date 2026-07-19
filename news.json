@@ -1,6 +1,36 @@
 {
- "updated": "2026-07-19T15:26:39.872723Z",
+ "updated": "2026-07-19T17:39:22.129701Z",
  "items": [
+  {
+   "t": "How to follow Hungarian Grand Prix on the BBC",
+   "src": "BBC",
+   "ts": 1784481534
+  },
+  {
+   "t": "Hamilton keeps F1 Belgian GP fourth-place finish as mechanic escapes unhurt",
+   "src": "Autosport",
+   "ts": 1784481122
+  },
+  {
+   "t": "Antonelli wins to extend lead after Russell crashes out",
+   "src": "BBC",
+   "ts": 1784480997
+  },
+  {
+   "t": "Antonelli near-perfect but too much drama for Hamilton - driver ratings",
+   "src": "BBC",
+   "ts": 1784480505
+  },
+  {
+   "t": "Ferrari criticises \"mega harsh\" penalty for Hamilton in F1 Belgian GP",
+   "src": "Autosport",
+   "ts": 1784480436
+  },
+  {
+   "t": "Mercedes driver scout Lagrue joining Red Bull",
+   "src": "BBC",
+   "ts": 1784479692
+  },
   {
    "t": "Why Leclerc wasn’t penalised for clash with Piastri in Belgian GP",
    "src": "Autosport",
@@ -10,11 +40,6 @@
    "t": "Ferrari summoned for Hamilton's Belgian GP unsafe release after hitting mechanic",
    "src": "Autosport",
    "ts": 1784473805
-  },
-  {
-   "t": "Antonelli wins to extend lead after Russell crashes out",
-   "src": "BBC",
-   "ts": 1784473594
   },
   {
    "t": "F1 Belgian GP: Antonelli reels in Leclerc to win, Russell out after Hamilton clash",
@@ -35,31 +60,6 @@
    "t": "Red Bull set to sign Mercedes F1 junior boss Lagrue",
    "src": "Autosport",
    "ts": 1784465515
-  },
-  {
-   "t": "Mercedes driver scout Lagrue joining Red Bull",
-   "src": "BBC",
-   "ts": 1784462223
-  },
-  {
-   "t": "Why F1 drivers are being beaten by their own power units",
-   "src": "Autosport",
-   "ts": 1784456535
-  },
-  {
-   "t": "Hamilton: Ferrari F1 car \"didn't feel the same\" after Belgian GP practice crash",
-   "src": "Autosport",
-   "ts": 1784444886
-  },
-  {
-   "t": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
-   "src": "BBC",
-   "ts": 1784401827
-  },
-  {
-   "t": "Mercedes working to resolve “serious issue” behind Russell’s deficit to Antonelli",
-   "src": "Autosport",
-   "ts": 1784396618
   }
  ]
 }
