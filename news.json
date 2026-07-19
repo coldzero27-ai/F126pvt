@@ -1,6 +1,31 @@
 {
- "updated": "2026-07-19T14:09:17.697879Z",
+ "updated": "2026-07-19T15:26:39.872723Z",
  "items": [
+  {
+   "t": "Why Leclerc wasn’t penalised for clash with Piastri in Belgian GP",
+   "src": "Autosport",
+   "ts": 1784474052
+  },
+  {
+   "t": "Ferrari summoned for Hamilton's Belgian GP unsafe release after hitting mechanic",
+   "src": "Autosport",
+   "ts": 1784473805
+  },
+  {
+   "t": "Antonelli wins to extend lead after Russell crashes out",
+   "src": "BBC",
+   "ts": 1784473594
+  },
+  {
+   "t": "F1 Belgian GP: Antonelli reels in Leclerc to win, Russell out after Hamilton clash",
+   "src": "Autosport",
+   "ts": 1784472483
+  },
+  {
+   "t": "Russell slams \"dangerous\" battery issue before Hamilton Belgian GP clash",
+   "src": "Autosport",
+   "ts": 1784470114
+  },
   {
    "t": "Red Bull names successor to Verstappen's race engineer Lambiase",
    "src": "Autosport",
@@ -35,31 +60,6 @@
    "t": "Mercedes working to resolve “serious issue” behind Russell’s deficit to Antonelli",
    "src": "Autosport",
    "ts": 1784396618
-  },
-  {
-   "t": "Explained: The yellow flag error that caught Leclerc out in Belgian GP qualifying",
-   "src": "Autosport",
-   "ts": 1784394335
-  },
-  {
-   "t": "Verstappen: I wouldn't be on Belgian GP front row without Hadjar tow",
-   "src": "Autosport",
-   "ts": 1784391670
-  },
-  {
-   "t": "Antonelli takes Belgium pole from Verstappen",
-   "src": "BBC",
-   "ts": 1784390824
-  },
-  {
-   "t": "F1: Chequered Flag",
-   "src": "BBC",
-   "ts": 1784389920
-  },
-  {
-   "t": "F1 Belgian GP: Antonelli defeats Verstappen to take pole",
-   "src": "Autosport",
-   "ts": 1784388391
   }
  ]
 }
