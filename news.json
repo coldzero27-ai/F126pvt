@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-20T12:53:58.413003Z",
+ "updated": "2026-07-20T15:13:06.994219Z",
  "items": [
+  {
+   "t": "The new strengths Antonelli has shown in F1, 12 months on from 'reaching the bottom'",
+   "src": "Autosport",
+   "ts": 1784559603
+  },
   {
    "t": "What we can learn from Mercedes' floor after Russell's Belgian GP retirement",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Ferrari criticises \"mega harsh\" penalty for Hamilton in F1 Belgian GP",
    "src": "Autosport",
    "ts": 1784480436
-  },
-  {
-   "t": "Mercedes driver scout Lagrue joining Red Bull",
-   "src": "BBC",
-   "ts": 1784479692
   }
  ]
 }
