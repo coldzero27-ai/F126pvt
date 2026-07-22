@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-22T09:13:58.014810Z",
+ "updated": "2026-07-22T11:21:56.683072Z",
  "items": [
+  {
+   "t": "Why the 2026 F1 cars suit Antonelli's driving style more than Russell",
+   "src": "Autosport",
+   "ts": 1784715540
+  },
   {
    "t": "Hamilton takes \"full responsibility\" for disappointing Belgian GP",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Russell 'numb to disappointment' after bitter blow to title hopes",
    "src": "BBC",
    "ts": 1784488968
-  },
-  {
-   "t": "Is Verstappen to Mercedes a likely move?",
-   "src": "BBC",
-   "ts": 1784487810
   }
  ]
 }
