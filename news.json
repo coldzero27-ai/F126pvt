@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-21T16:50:34.356085Z",
+ "updated": "2026-07-22T09:13:58.014810Z",
  "items": [
+  {
+   "t": "Hamilton takes \"full responsibility\" for disappointing Belgian GP",
+   "src": "Autosport",
+   "ts": 1784709338
+  },
   {
    "t": "McLaren to finally trial 'Macarena-style' rear wing in Hungarian GP practice",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Is Verstappen to Mercedes a likely move?",
    "src": "BBC",
    "ts": 1784487810
-  },
-  {
-   "t": "Title race would be 'done and dusted' without Mercedes reliability issues",
-   "src": "BBC",
-   "ts": 1784487632
   }
  ]
 }
