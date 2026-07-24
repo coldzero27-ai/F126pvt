@@ -1,10 +1,20 @@
 {
- "updated": "2026-07-24T12:49:17.434294Z",
+ "updated": "2026-07-24T14:57:41.978098Z",
  "items": [
   {
-   "t": "Ferrari's Leclerc fastest in Hungary practice",
+   "t": "Promising results from new Aston Martin, says Newey",
    "src": "BBC",
-   "ts": 1784897075
+   "ts": 1784901231
+  },
+  {
+   "t": "Why fans don't get true picture of driver performance with 2026 F1 rules - but it is fixable, according to Haas boss",
+   "src": "Autosport",
+   "ts": 1784898895
+  },
+  {
+   "t": "F1 Hungarian GP: Leclerc tops FP1, Stroll suffers suspected suspension failure with upgraded Aston Martin",
+   "src": "Autosport",
+   "ts": 1784897157
   },
   {
    "t": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
@@ -50,16 +60,6 @@
    "t": "What Alonso needs from Aston Martin and F1 as career decision looms",
    "src": "Autosport",
    "ts": 1784734117
-  },
-  {
-   "t": "F1 drivers raise concerns over 'self-learning' power units – what's going on?",
-   "src": "Autosport",
-   "ts": 1784719811
-  },
-  {
-   "t": "Why the 2026 F1 cars suit Antonelli's driving style more than Russell",
-   "src": "Autosport",
-   "ts": 1784715540
   }
  ]
 }
