@@ -1,10 +1,30 @@
 {
- "updated": "2026-07-24T14:57:41.978098Z",
+ "updated": "2026-07-24T16:49:14.415947Z",
  "items": [
   {
-   "t": "Promising results from new Aston Martin, says Newey",
+   "t": "Hamilton leads Ferrari one-two in Hungary practice",
    "src": "BBC",
-   "ts": 1784901231
+   "ts": 1784911495
+  },
+  {
+   "t": "How to follow Hungarian Grand Prix on the BBC",
+   "src": "BBC",
+   "ts": 1784910653
+  },
+  {
+   "t": "F1 Hungarian GP: Hamilton leads Ferrari 1-2 in FP2, Colapinto crashes for Alpine",
+   "src": "Autosport",
+   "ts": 1784909644
+  },
+  {
+   "t": "Newey: Major Hungarian GP upgrade \"just the first part\" of new Aston Martin F1 car",
+   "src": "Autosport",
+   "ts": 1784906212
+  },
+  {
+   "t": "Andrew Benson Q&A: Send us your questions",
+   "src": "BBC",
+   "ts": 1784905576
   },
   {
    "t": "Why fans don't get true picture of driver performance with 2026 F1 rules - but it is fixable, according to Haas boss",
@@ -40,26 +60,6 @@
    "t": "Russell: Data shows software calibration behind recent F1 struggles, not driving style",
    "src": "Autosport",
    "ts": 1784822895
-  },
-  {
-   "t": "Mercedes identifies Russell's F1 power unit software issue",
-   "src": "Autosport",
-   "ts": 1784819284
-  },
-  {
-   "t": "Alonso optimistic about Aston Martin upgrade - will it decide his future?",
-   "src": "BBC",
-   "ts": 1784817340
-  },
-  {
-   "t": "How to follow Hungarian Grand Prix on the BBC",
-   "src": "BBC",
-   "ts": 1784800016
-  },
-  {
-   "t": "What Alonso needs from Aston Martin and F1 as career decision looms",
-   "src": "Autosport",
-   "ts": 1784734117
   }
  ]
 }
