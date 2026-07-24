@@ -1,10 +1,15 @@
 {
- "updated": "2026-07-24T16:49:14.415947Z",
+ "updated": "2026-07-24T18:20:15.801662Z",
  "items": [
   {
-   "t": "Hamilton leads Ferrari one-two in Hungary practice",
+   "t": "Hamilton fastest as new Aston Martin makes encouraging debut",
    "src": "BBC",
-   "ts": 1784911495
+   "ts": 1784916236
+  },
+  {
+   "t": "Alonso delivers first verdict on Aston Martin F1 car upgrades",
+   "src": "Autosport",
+   "ts": 1784913904
   },
   {
    "t": "How to follow Hungarian Grand Prix on the BBC",
@@ -47,19 +52,14 @@
    "ts": 1784881953
   },
   {
+   "t": "F1: Chequered Flag",
+   "src": "BBC",
+   "ts": 1784844660
+  },
+  {
    "t": "Russell proud of resilience after string of problems",
    "src": "BBC",
    "ts": 1784828513
-  },
-  {
-   "t": "\"You're not allowed to make a difference\" – Verstappen says the fastest F1 drivers are penalised",
-   "src": "Autosport",
-   "ts": 1784826194
-  },
-  {
-   "t": "Russell: Data shows software calibration behind recent F1 struggles, not driving style",
-   "src": "Autosport",
-   "ts": 1784822895
   }
  ]
 }
