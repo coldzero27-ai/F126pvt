@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-25T10:02:24.333117Z",
+ "updated": "2026-07-25T12:43:56.540750Z",
  "items": [
+  {
+   "t": "F1 Hungarian GP: Norris beats Hamilton to top final practice",
+   "src": "Autosport",
+   "ts": 1784979623
+  },
   {
    "t": "F1 Hungarian Grand Prix track repaired overnight following driver complaints",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "‘If you're not ready to adapt, you're not good enough’ - Norris addresses changing driving styles in F1 2026",
    "src": "Autosport",
    "ts": 1784881953
-  },
-  {
-   "t": "F1: Chequered Flag",
-   "src": "BBC",
-   "ts": 1784844660
   }
  ]
 }
