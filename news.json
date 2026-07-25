@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-24T18:20:15.801662Z",
+ "updated": "2026-07-25T10:02:24.333117Z",
  "items": [
+  {
+   "t": "F1 Hungarian Grand Prix track repaired overnight following driver complaints",
+   "src": "Autosport",
+   "ts": 1784970580
+  },
   {
    "t": "Hamilton fastest as new Aston Martin makes encouraging debut",
    "src": "BBC",
@@ -55,11 +60,6 @@
    "t": "F1: Chequered Flag",
    "src": "BBC",
    "ts": 1784844660
-  },
-  {
-   "t": "Russell proud of resilience after string of problems",
-   "src": "BBC",
-   "ts": 1784828513
   }
  ]
 }
