@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-25T18:11:37.636382Z",
+ "updated": "2026-07-25T19:38:11.792760Z",
  "items": [
+  {
+   "t": "Norris cautious despite pole as it falls apart for Hamilton",
+   "src": "BBC",
+   "ts": 1785007394
+  },
   {
    "t": "How to follow Hungarian Grand Prix on the BBC",
    "src": "BBC",
@@ -20,6 +25,11 @@
    "t": "Antonelli hit with grid drop for yellow flag infringement in F1 Hungarian GP qualifying",
    "src": "Autosport",
    "ts": 1785002089
+  },
+  {
+   "t": "F1: Chequered Flag",
+   "src": "BBC",
+   "ts": 1785000180
   },
   {
    "t": "Hamilton slapped with grid drop for impeding Piastri in F1 Hungarian GP qualifying",
@@ -50,16 +60,6 @@
    "t": "Hamilton under investigation by stewards over impeding Piastri in Hungarian GP qualifying",
    "src": "Autosport",
    "ts": 1784994810
-  },
-  {
-   "t": "F1 Hungarian GP: Norris trumps Hamilton to pole by 0.012s, Verstappen spins",
-   "src": "Autosport",
-   "ts": 1784992740
-  },
-  {
-   "t": "Malaysia set to host postponed Bahrain GP",
-   "src": "BBC",
-   "ts": 1784984988
   }
  ]
 }
