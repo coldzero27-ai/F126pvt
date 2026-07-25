@@ -1,10 +1,35 @@
 {
- "updated": "2026-07-25T15:46:08.918003Z",
+ "updated": "2026-07-25T17:01:33.953226Z",
  "items": [
   {
-   "t": "Norris beats Hamilton to Hungary pole",
+   "t": "Norris takes pole as Hamilton given grid penalty",
    "src": "BBC",
-   "ts": 1784992980
+   "ts": 1784998715
+  },
+  {
+   "t": "Russell to undergo Mercedes engine change but avoids F1 Hungarian GP grid drop",
+   "src": "Autosport",
+   "ts": 1784998686
+  },
+  {
+   "t": "Verstappen on latest Red Bull woes: \"Desperate? I'm already past that stage\"",
+   "src": "Autosport",
+   "ts": 1784998001
+  },
+  {
+   "t": "Alonso explains how the impact of Aston Martin’s upgrades go further than Hungarian GP qualifying breakthrough",
+   "src": "Autosport",
+   "ts": 1784996266
+  },
+  {
+   "t": "Antonelli risks grid drop as stewards launch Hungarian GP qualifying investigation",
+   "src": "Autosport",
+   "ts": 1784995119
+  },
+  {
+   "t": "Hamilton under investigation by stewards over impeding Piastri in Hungarian GP qualifying",
+   "src": "Autosport",
+   "ts": 1784994810
   },
   {
    "t": "F1 Hungarian GP: Norris trumps Hamilton to pole by 0.012s, Verstappen spins",
@@ -35,31 +60,6 @@
    "t": "Alonso delivers first verdict on Aston Martin F1 car upgrades",
    "src": "Autosport",
    "ts": 1784913904
-  },
-  {
-   "t": "How to follow Hungarian Grand Prix on the BBC",
-   "src": "BBC",
-   "ts": 1784910653
-  },
-  {
-   "t": "F1 Hungarian GP: Hamilton leads Ferrari 1-2 in FP2, Colapinto crashes for Alpine",
-   "src": "Autosport",
-   "ts": 1784909644
-  },
-  {
-   "t": "Newey: Major Hungarian GP upgrade \"just the first part\" of new Aston Martin F1 car",
-   "src": "Autosport",
-   "ts": 1784906212
-  },
-  {
-   "t": "Andrew Benson Q&A: Send us your questions",
-   "src": "BBC",
-   "ts": 1784905576
-  },
-  {
-   "t": "Why fans don't get true picture of driver performance with 2026 F1 rules - but it is fixable, according to Haas boss",
-   "src": "Autosport",
-   "ts": 1784898895
   }
  ]
 }
