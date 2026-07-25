@@ -1,8 +1,18 @@
 {
- "updated": "2026-07-25T14:38:25.359430Z",
+ "updated": "2026-07-25T15:46:08.918003Z",
  "items": [
   {
-   "t": "Malaysia set to host F1 race in October",
+   "t": "Norris beats Hamilton to Hungary pole",
+   "src": "BBC",
+   "ts": 1784992980
+  },
+  {
+   "t": "F1 Hungarian GP: Norris trumps Hamilton to pole by 0.012s, Verstappen spins",
+   "src": "Autosport",
+   "ts": 1784992740
+  },
+  {
+   "t": "Malaysia set to host postponed Bahrain GP",
    "src": "BBC",
    "ts": 1784984988
   },
@@ -50,16 +60,6 @@
    "t": "Why fans don't get true picture of driver performance with 2026 F1 rules - but it is fixable, according to Haas boss",
    "src": "Autosport",
    "ts": 1784898895
-  },
-  {
-   "t": "F1 Hungarian GP: Leclerc tops FP1, Stroll suffers suspected suspension failure with upgraded Aston Martin",
-   "src": "Autosport",
-   "ts": 1784897157
-  },
-  {
-   "t": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
-   "src": "Autosport",
-   "ts": 1784892856
   }
  ]
 }
