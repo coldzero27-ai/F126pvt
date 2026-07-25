@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-25T12:43:56.540750Z",
+ "updated": "2026-07-25T14:38:25.359430Z",
  "items": [
+  {
+   "t": "Malaysia set to host F1 race in October",
+   "src": "BBC",
+   "ts": 1784984988
+  },
   {
    "t": "F1 Hungarian GP: Norris beats Hamilton to top final practice",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
    "src": "Autosport",
    "ts": 1784892856
-  },
-  {
-   "t": "‘If you're not ready to adapt, you're not good enough’ - Norris addresses changing driving styles in F1 2026",
-   "src": "Autosport",
-   "ts": 1784881953
   }
  ]
 }
