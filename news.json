@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-26T12:43:11.817854Z",
+ "updated": "2026-07-26T15:45:01.307508Z",
  "items": [
+  {
+   "t": "Norris wins his first grand prix of year in Hungary",
+   "src": "BBC",
+   "ts": 1785078792
+  },
+  {
+   "t": "F1 Hungarian GP: Norris wins from Verstappen and Antonelli, Piastri retires with gearbox failure",
+   "src": "Autosport",
+   "ts": 1785077830
+  },
   {
    "t": "Malaysia to host postponed Bahrain GP",
    "src": "BBC",
@@ -50,16 +60,6 @@
    "t": "Alonso explains how the impact of Aston Martin’s upgrades go further than Hungarian GP qualifying breakthrough",
    "src": "Autosport",
    "ts": 1784996266
-  },
-  {
-   "t": "Antonelli risks grid drop as stewards launch Hungarian GP qualifying investigation",
-   "src": "Autosport",
-   "ts": 1784995119
-  },
-  {
-   "t": "Hamilton under investigation by stewards over impeding Piastri in Hungarian GP qualifying",
-   "src": "Autosport",
-   "ts": 1784994810
   }
  ]
 }
