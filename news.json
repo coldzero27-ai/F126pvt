@@ -1,10 +1,25 @@
 {
- "updated": "2026-07-26T15:45:01.307508Z",
+ "updated": "2026-07-26T17:04:25.516494Z",
  "items": [
   {
    "t": "Norris wins his first grand prix of year in Hungary",
    "src": "BBC",
-   "ts": 1785078792
+   "ts": 1785085334
+  },
+  {
+   "t": "Piastri slams \"unacceptable\" Sainz blue-flag incident, accepts McLaren strategy in Hungarian GP",
+   "src": "Autosport",
+   "ts": 1785083501
+  },
+  {
+   "t": "How blue-flag malfunction caused chaos in F1 Hungarian GP",
+   "src": "Autosport",
+   "ts": 1785082744
+  },
+  {
+   "t": "Why Sainz only got a five-second penalty for Hungarian GP clash with Piastri",
+   "src": "Autosport",
+   "ts": 1785081872
   },
   {
    "t": "F1 Hungarian GP: Norris wins from Verstappen and Antonelli, Piastri retires with gearbox failure",
@@ -45,21 +60,6 @@
    "t": "Hamilton slapped with grid drop for impeding Piastri in F1 Hungarian GP qualifying",
    "src": "Autosport",
    "ts": 1784999129
-  },
-  {
-   "t": "Russell to undergo Mercedes engine change but avoids F1 Hungarian GP grid drop",
-   "src": "Autosport",
-   "ts": 1784998686
-  },
-  {
-   "t": "Verstappen on latest Red Bull woes: \"Desperate? I'm already past that stage\"",
-   "src": "Autosport",
-   "ts": 1784998001
-  },
-  {
-   "t": "Alonso explains how the impact of Aston Martin’s upgrades go further than Hungarian GP qualifying breakthrough",
-   "src": "Autosport",
-   "ts": 1784996266
   }
  ]
 }
