@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-26T11:21:28.377945Z",
+ "updated": "2026-07-26T12:43:11.817854Z",
  "items": [
   {
    "t": "Malaysia to host postponed Bahrain GP",
@@ -15,11 +15,6 @@
    "t": "Norris cautious despite pole as it 'falls apart' for Hamilton",
    "src": "BBC",
    "ts": 1785007394
-  },
-  {
-   "t": "How to follow Hungarian Grand Prix on the BBC",
-   "src": "BBC",
-   "ts": 1785002906
   },
   {
    "t": "Norris on pole as Hamilton and Antonelli penalised",
@@ -60,6 +55,11 @@
    "t": "Antonelli risks grid drop as stewards launch Hungarian GP qualifying investigation",
    "src": "Autosport",
    "ts": 1784995119
+  },
+  {
+   "t": "Hamilton under investigation by stewards over impeding Piastri in Hungarian GP qualifying",
+   "src": "Autosport",
+   "ts": 1784994810
   }
  ]
 }
