@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-27T07:56:33.763093Z",
+ "updated": "2026-07-27T11:32:22.761918Z",
  "items": [
+  {
+   "t": "Norris: I was better than Piastri in every sense in battle for Hungarian GP victory",
+   "src": "Autosport",
+   "ts": 1785145784
+  },
+  {
+   "t": "Ferrari must 'do better' after errors in Hungary",
+   "src": "BBC",
+   "ts": 1785142838
+  },
   {
    "t": "How Ferrari's Hungarian GP meltdown cost a shot at the F1 podium",
    "src": "Autosport",
@@ -50,16 +60,6 @@
    "t": "Why Sainz only got a five-second penalty for Hungarian GP clash with Piastri",
    "src": "Autosport",
    "ts": 1785081872
-  },
-  {
-   "t": "F1 Hungarian GP: Norris wins from Verstappen and Antonelli, Piastri retires with gearbox failure",
-   "src": "Autosport",
-   "ts": 1785077830
-  },
-  {
-   "t": "Malaysia to host postponed Bahrain GP",
-   "src": "BBC",
-   "ts": 1785063597
   }
  ]
 }
