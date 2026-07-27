@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-27T00:02:20.391544Z",
+ "updated": "2026-07-27T07:56:33.763093Z",
  "items": [
+  {
+   "t": "How Ferrari's Hungarian GP meltdown cost a shot at the F1 podium",
+   "src": "Autosport",
+   "ts": 1785136385
+  },
   {
    "t": "F1: Chequered Flag",
    "src": "BBC",
@@ -55,11 +60,6 @@
    "t": "Malaysia to host postponed Bahrain GP",
    "src": "BBC",
    "ts": 1785063597
-  },
-  {
-   "t": "Malaysia will officially host F1's 2026 Bahrain GP",
-   "src": "Autosport",
-   "ts": 1785061807
   }
  ]
 }
