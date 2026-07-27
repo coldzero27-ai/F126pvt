@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-27T11:32:22.761918Z",
+ "updated": "2026-07-27T13:56:38.118358Z",
  "items": [
+  {
+   "t": "Mercedes driver scout Lagrue to join Red Bull",
+   "src": "BBC",
+   "ts": 1785156490
+  },
+  {
+   "t": "Red Bull appoints Lagrue as junior driver chief after Mercedes F1 exit",
+   "src": "Autosport",
+   "ts": 1785155377
+  },
   {
    "t": "Norris: I was better than Piastri in every sense in battle for Hungarian GP victory",
    "src": "Autosport",
@@ -50,16 +60,6 @@
    "t": "Piastri slams \"unacceptable\" Sainz blue-flag incident, accepts McLaren strategy in Hungarian GP",
    "src": "Autosport",
    "ts": 1785083501
-  },
-  {
-   "t": "How blue-flag malfunction caused chaos in F1 Hungarian GP",
-   "src": "Autosport",
-   "ts": 1785082744
-  },
-  {
-   "t": "Why Sainz only got a five-second penalty for Hungarian GP clash with Piastri",
-   "src": "Autosport",
-   "ts": 1785081872
   }
  ]
 }
