@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-27T13:56:38.118358Z",
+ "updated": "2026-07-27T16:26:17.774978Z",
  "items": [
+  {
+   "t": "The data behind Russell’s engine software issue that caused his Hungarian GP slow start",
+   "src": "Autosport",
+   "ts": 1785165337
+  },
   {
    "t": "Mercedes driver scout Lagrue to join Red Bull",
    "src": "BBC",
@@ -55,11 +60,6 @@
    "t": "Norris wins his first grand prix of year in Hungary",
    "src": "BBC",
    "ts": 1785085334
-  },
-  {
-   "t": "Piastri slams \"unacceptable\" Sainz blue-flag incident, accepts McLaren strategy in Hungarian GP",
-   "src": "Autosport",
-   "ts": 1785083501
   }
  ]
 }
