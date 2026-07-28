@@ -1,6 +1,16 @@
 {
- "updated": "2026-07-27T16:26:17.774978Z",
+ "updated": "2026-07-28T08:38:04.148405Z",
  "items": [
+  {
+   "t": "Is McLaren now a legitimate threat to Mercedes and Ferrari in F1 2026?",
+   "src": "Autosport",
+   "ts": 1785227069
+  },
+  {
+   "t": "Why is Hamilton getting so many penalties? - F1 Q&A",
+   "src": "BBC",
+   "ts": 1785220943
+  },
   {
    "t": "The data behind Russell’s engine software issue that caused his Hungarian GP slow start",
    "src": "Autosport",
@@ -50,16 +60,6 @@
    "t": "New Honda F1 engine to debut in Aston Martin filming day ahead of Dutch GP",
    "src": "Autosport",
    "ts": 1785087581
-  },
-  {
-   "t": "Complete weekend for Norris but poor result for Sainz - driver ratings",
-   "src": "BBC",
-   "ts": 1785086183
-  },
-  {
-   "t": "Norris wins his first grand prix of year in Hungary",
-   "src": "BBC",
-   "ts": 1785085334
   }
  ]
 }
