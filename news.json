@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-29T11:36:18.694261Z",
+ "updated": "2026-07-30T09:55:24.047679Z",
  "items": [
+  {
+   "t": "No more battery info on F1 TV graphics? ‘Fans don’t care about that’, F1 boss responds",
+   "src": "Autosport",
+   "ts": 1785400594
+  },
   {
    "t": "\"We don't want to put tape on anyone's mouth\" – F1 boss reacts to driver criticism of 2026 rules",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Norris: I was better than Piastri in every sense in battle for Hungarian GP victory",
    "src": "Autosport",
    "ts": 1785145784
-  },
-  {
-   "t": "Ferrari must 'do better' after errors in Hungary",
-   "src": "BBC",
-   "ts": 1785142838
   }
  ]
 }
