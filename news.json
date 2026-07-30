@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-30T11:53:54.954865Z",
+ "updated": "2026-07-30T14:08:09.693136Z",
  "items": [
+  {
+   "t": "McLaren leaves Mercedes impressed after dominant Hungary win",
+   "src": "Autosport",
+   "ts": 1785416537
+  },
   {
    "t": "Stand out moments from the Malaysian GP",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Mercedes driver scout Lagrue to join Red Bull",
    "src": "BBC",
    "ts": 1785156490
-  },
-  {
-   "t": "Red Bull appoints Lagrue as junior driver chief after Mercedes F1 exit",
-   "src": "Autosport",
-   "ts": 1785155377
   }
  ]
 }
