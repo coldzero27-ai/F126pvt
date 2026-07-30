@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-30T09:55:24.047679Z",
+ "updated": "2026-07-30T11:53:54.954865Z",
  "items": [
+  {
+   "t": "Stand out moments from the Malaysian GP",
+   "src": "Autosport",
+   "ts": 1785407403
+  },
   {
    "t": "No more battery info on F1 TV graphics? ‘Fans don’t care about that’, F1 boss responds",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Red Bull appoints Lagrue as junior driver chief after Mercedes F1 exit",
    "src": "Autosport",
    "ts": 1785155377
-  },
-  {
-   "t": "Norris: I was better than Piastri in every sense in battle for Hungarian GP victory",
-   "src": "Autosport",
-   "ts": 1785145784
   }
  ]
 }
