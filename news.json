@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-31T12:57:58.884573Z",
+ "updated": "2026-07-31T15:24:39.590571Z",
  "items": [
+  {
+   "t": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
+   "src": "Autosport",
+   "ts": 1785510002
+  },
   {
    "t": "How Pirelli will deal with F1’s unexpected return to Sepang",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Five things we've learned from first half of F1 season",
    "src": "BBC",
    "ts": 1785310159
-  },
-  {
-   "t": "Is McLaren now a legitimate threat to Mercedes and Ferrari in F1 2026?",
-   "src": "Autosport",
-   "ts": 1785227069
   }
  ]
 }
