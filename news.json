@@ -1,6 +1,11 @@
 {
- "updated": "2026-07-31T15:24:39.590571Z",
+ "updated": "2026-08-01T08:55:44.167471Z",
  "items": [
+  {
+   "t": "Audi won’t upgrade F1 power unit again until 2027",
+   "src": "Autosport",
+   "ts": 1785572165
+  },
   {
    "t": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "How F1 2026 has been a season of two halves for Ferrari so far",
    "src": "Autosport",
    "ts": 1785313098
-  },
-  {
-   "t": "Five things we've learned from first half of F1 season",
-   "src": "BBC",
-   "ts": 1785310159
   }
  ]
 }
