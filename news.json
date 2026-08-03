@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-02T09:10:22.108660Z",
+ "updated": "2026-08-03T07:51:41.913595Z",
  "items": [
   {
    "t": "Verstappen's mindset going into the F1 summer break: \"Of course I can easily stop, but I love racing\"",
@@ -10,6 +10,11 @@
    "t": "Audi won’t upgrade F1 power unit again until 2027",
    "src": "Autosport",
    "ts": 1785572165
+  },
+  {
+   "t": "The Chequered Flag Podcast",
+   "src": "BBC",
+   "ts": 1785517200
   },
   {
    "t": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
@@ -55,11 +60,6 @@
    "t": "Season to end in Europe if war continues - F1 boss",
    "src": "BBC",
    "ts": 1785323092
-  },
-  {
-   "t": "Why the 2026 F1 season won’t end in Las Vegas",
-   "src": "Autosport",
-   "ts": 1785322804
   }
  ]
 }
