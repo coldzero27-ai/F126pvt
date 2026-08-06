@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06T10:16:25.267559Z",
+ "updated": "2026-08-06T12:22:00.231418Z",
  "items": [
   {
    "t": "Should the algorithms in F1 power units be banned? FIA explains why it won’t work",
@@ -37,11 +37,6 @@
    "ts": 1785657684
   },
   {
-   "t": "Superman 1978: The classic superhero blockbuster",
-   "src": "BBC",
-   "ts": 1785610590
-  },
-  {
    "t": "Audi won’t upgrade F1 power unit again until 2027",
    "src": "Autosport",
    "ts": 1785572165
@@ -60,6 +55,11 @@
    "t": "How Pirelli will deal with F1’s unexpected return to Sepang",
    "src": "Autosport",
    "ts": 1785495604
+  },
+  {
+   "t": "The one aspect Stella thinks will decide the rest of F1 2026",
+   "src": "Autosport",
+   "ts": 1785486552
   }
  ]
 }
