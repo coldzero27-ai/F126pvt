@@ -1,6 +1,11 @@
 {
- "updated": "2026-08-05T16:12:46.921516Z",
+ "updated": "2026-08-06T10:16:25.267559Z",
  "items": [
+  {
+   "t": "Should the algorithms in F1 power units be banned? FIA explains why it won’t work",
+   "src": "Autosport",
+   "ts": 1786004493
+  },
   {
    "t": "Mercedes \"closely monitoring\" upgrades for the rest of F1 2026",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "How Pirelli will deal with F1’s unexpected return to Sepang",
    "src": "Autosport",
    "ts": 1785495604
-  },
-  {
-   "t": "The one aspect Stella thinks will decide the rest of F1 2026",
-   "src": "Autosport",
-   "ts": 1785486552
   }
  ]
 }
