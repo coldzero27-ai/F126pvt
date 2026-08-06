@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-06T12:22:00.231418Z",
+ "updated": "2026-08-06T14:58:46.335000Z",
  "items": [
+  {
+   "t": "What is it like being a Williams F1 simulator driver?",
+   "src": "Autosport",
+   "ts": 1786027492
+  },
+  {
+   "t": "'It's highly likely to be Imola' - Will F1 have a European finale?",
+   "src": "BBC",
+   "ts": 1786026048
+  },
   {
    "t": "Should the algorithms in F1 power units be banned? FIA explains why it won’t work",
    "src": "Autosport",
@@ -50,16 +60,6 @@
    "t": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
    "src": "Autosport",
    "ts": 1785510002
-  },
-  {
-   "t": "How Pirelli will deal with F1’s unexpected return to Sepang",
-   "src": "Autosport",
-   "ts": 1785495604
-  },
-  {
-   "t": "The one aspect Stella thinks will decide the rest of F1 2026",
-   "src": "Autosport",
-   "ts": 1785486552
   }
  ]
 }
