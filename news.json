@@ -1,6 +1,11 @@
 {
- "updated": "2026-08-06T14:58:46.335000Z",
+ "updated": "2026-08-07T00:41:29.751489Z",
  "items": [
+  {
+   "t": "'Verstappen to McLaren!' - Mid-season F1 predictions",
+   "src": "BBC",
+   "ts": 1786032636
+  },
   {
    "t": "What is it like being a Williams F1 simulator driver?",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "The Chequered Flag Podcast",
    "src": "BBC",
    "ts": 1785517200
-  },
-  {
-   "t": "The challenge Haas faces in trying to meet F1 budget cap: \"Fighting with both hands tied\"",
-   "src": "Autosport",
-   "ts": 1785510002
   }
  ]
 }
