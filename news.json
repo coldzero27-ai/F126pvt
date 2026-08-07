@@ -1,6 +1,11 @@
 {
- "updated": "2026-08-07T11:29:17.277965Z",
+ "updated": "2026-08-07T15:01:02.176680Z",
  "items": [
+  {
+   "t": "FIA wants F1 cars to lose another 80kg under next rules overhaul",
+   "src": "Autosport",
+   "ts": 1786114284
+  },
   {
    "t": "Clark, Senna, Antonelli – How the grand chelem age record has evolved",
    "src": "Autosport",
@@ -55,11 +60,6 @@
    "t": "Verstappen's mindset going into the F1 summer break: \"Of course I can easily stop, but I love racing\"",
    "src": "Autosport",
    "ts": 1785657684
-  },
-  {
-   "t": "Audi won’t upgrade F1 power unit again until 2027",
-   "src": "Autosport",
-   "ts": 1785572165
   }
  ]
 }
